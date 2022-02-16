@@ -9,8 +9,6 @@ COPY . /usr/app/
 WORKDIR /usr/app
 RUN yarn
 
-ENV PATH /usr/src/app/node_modules/.bin:$PATH  
-
 RUN npm install
 
 
