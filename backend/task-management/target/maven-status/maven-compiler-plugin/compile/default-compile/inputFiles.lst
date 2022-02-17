@@ -1,0 +1,14 @@
+/home/shivny/Documents/Bootcamp/bootcamp4-todo/backend/task-management/src/main/java/com/bootcamp4/taskmanagement/exception/TaskErrorResponse.java
+/home/shivny/Documents/Bootcamp/bootcamp4-todo/backend/task-management/src/main/java/com/bootcamp4/taskmanagement/dto/TaskDTO.java
+/home/shivny/Documents/Bootcamp/bootcamp4-todo/backend/task-management/src/main/java/com/bootcamp4/taskmanagement/controller/TaskController.java
+/home/shivny/Documents/Bootcamp/bootcamp4-todo/backend/task-management/src/main/java/com/bootcamp4/taskmanagement/TaskManagementApplication.java
+/home/shivny/Documents/Bootcamp/bootcamp4-todo/backend/task-management/src/main/java/com/bootcamp4/taskmanagement/exception/TaskNotFoundException.java
+/home/shivny/Documents/Bootcamp/bootcamp4-todo/backend/task-management/src/main/java/com/bootcamp4/taskmanagement/model/Task.java
+/home/shivny/Documents/Bootcamp/bootcamp4-todo/backend/task-management/src/main/java/com/bootcamp4/taskmanagement/config/AudienceValidator.java
+/home/shivny/Documents/Bootcamp/bootcamp4-todo/backend/task-management/src/main/java/com/bootcamp4/taskmanagement/service/TaskService.java
+/home/shivny/Documents/Bootcamp/bootcamp4-todo/backend/task-management/src/main/java/com/bootcamp4/taskmanagement/dao/TaskRepository.java
+/home/shivny/Documents/Bootcamp/bootcamp4-todo/backend/task-management/src/main/java/com/bootcamp4/taskmanagement/utils/APIUtils.java
+/home/shivny/Documents/Bootcamp/bootcamp4-todo/backend/task-management/src/main/java/com/bootcamp4/taskmanagement/config/SecurityConfig.java
+/home/shivny/Documents/Bootcamp/bootcamp4-todo/backend/task-management/src/main/java/com/bootcamp4/taskmanagement/service/TaskServiceImpl.java
+/home/shivny/Documents/Bootcamp/bootcamp4-todo/backend/task-management/src/main/java/com/bootcamp4/taskmanagement/exception/TaskRestExceptionalHandler.java
+/home/shivny/Documents/Bootcamp/bootcamp4-todo/backend/task-management/src/main/java/com/bootcamp4/taskmanagement/mapper/TaskMapper.java
