@@ -1,4 +1,8 @@
-FROM java:8 as backend
-WORKDIR /backend
-COPY backend .
-RUN
+FROM java:8
+WORKDIR /task-management
+COPY target/task-management-0.0.1-SNAPSHOT.jar app.jar
+
+
+EXPOSE 8080
+
+ENTRYPOINT ["java","-jar","app.jar"]

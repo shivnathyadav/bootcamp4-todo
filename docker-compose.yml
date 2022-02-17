@@ -1,0 +1,27 @@
+version: '3'
+services:
+  #************Backend***************
+  backend_spring_task:
+    container_name: spring_container-task
+    build:
+      context: ./backend/task-management
+      dockerfile: Dockerfile
+    ports:
+      - 8081:8080
+    networks:
+      - shiv_net
+
+  #************Frontend***************
+  frontend_react:
+    container_name: react_container
+    build:
+      context: ./web-ui
+      dockerfile: Dockerfile
+    ports:
+      - 8074:80
+    networks:
+      - shiv_net
+      
+networks:
+  shiv_net:
+    driver: bridge
